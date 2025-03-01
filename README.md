@@ -28,7 +28,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='https://submissions.us-east-1.linodeobjects.com/web102/pNAji0cw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+https://submissions.us-east-1.linodeobjects.com/web102/pNAji0cw.gif
 GIF created with ...  
 getkap.com
 
